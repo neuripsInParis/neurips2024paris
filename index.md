@@ -8,7 +8,7 @@ Authors of all accepted papers at NeurIPS 2024 are given the opportunity to pres
 
 The event is free but registration is mandatory. 
 
-Registration are **open** from September 30th until November 5th through the following link: https://forms.gle/Fc4nbeW6ubahYbJn6.
+Registration are **open** from September 30th until November 5th through the following link: [https://forms.gle/Fc4nbeW6ubahYbJn6](https://forms.gle/Fc4nbeW6ubahYbJn6).
 
 Please note that we may implement a waiting list in case of over-registration. We will send you an email after November 5th to inform you whether your registration is confirmed or not.
 
