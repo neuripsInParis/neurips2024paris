@@ -77,7 +77,9 @@ We aim to organize a local and sustainable alternative to in-person attendance t
 
 ### Advising commitee
 
+[Chloé-Agathe Azencott](https://cazencott.info/) (Mines Paris-PSL) <br>
 [Francis Bach](https://www.di.ens.fr/~fbach/) (INRIA) <br>
+[Claire Boyer](https://www.imo.universite-paris-saclay.fr/~claire.boyer/) (Université Paris-Saclay) <br>
 [Gérard Biau](https://perso.lpsm.paris/~biau/) (Sorbonne Université)<br>
 [Vianney Perchet](https://vianney.ai/) (Criteo, ENSAE) <br>
 [Jean-Philippe Vert](https://members.cbio.mines-paristech.fr/~jvert/) (Owkin) <br>
