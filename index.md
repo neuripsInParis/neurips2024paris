@@ -64,7 +64,7 @@ We aim to organize a local and sustainable alternative to in-person attendance t
 
 ## Committees
 
-### Organizing commitee
+### Organizing committee
 
 <a href="https://raphael-berthier.github.io/"> Raphaël Berthier </a> (INRIA) <br>
 <a href="https://linusbleistein.com/"> Linus Bleistein </a> (INRIA, Université Paris-Saclay) <br>
@@ -75,7 +75,7 @@ We aim to organize a local and sustainable alternative to in-person attendance t
 <a href="https://maxencenoble.github.io/"> Maxence Noble </a> (Polytechnique) <br>
 <a href="https://loucaspillaudvivien.io/"> Loucas Pillaud-Vivien </a> (Ponts) <br>
 
-### Advising commitee
+### Advising committee
 
 [Chloé-Agathe Azencott](https://cazencott.info/) (Mines Paris-PSL) <br>
 [Francis Bach](https://www.di.ens.fr/~fbach/) (INRIA) <br>
