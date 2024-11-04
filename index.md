@@ -6,11 +6,7 @@ Authors of all accepted papers at NeurIPS 2024 are given the opportunity to pres
 
 ## Registration
 
-The event is free but registration is mandatory. 
-
-Registration are **open** from September 30th until <code style="color : red">**October 18th**</code> through the following link: [https://forms.gle/Fc4nbeW6ubahYbJn6](https://forms.gle/Fc4nbeW6ubahYbJn6).
-
-Please note that due to a large number of registrations that strongly exceeds the event’s capacity, we will close registration early with respect to the first announcements. We will also implement a waiting list due to over-registration. We will send you an email after October 18th to inform you whether your registration is confirmed or not.
+The event is free but registration is mandatory. Registration are now closed.
 
 This event is in-person only: we will neither record presentations nor include online options.
 
@@ -22,12 +18,18 @@ To access by metro, go to station Jussieu on the line 10.
 
 The presentations will be held in amphithéâtre 25. All social events (poster sessions, mentor and career sessions, cocktail and lunch) will be held in SCAI and in the Esclangon building, which is located within Jussieu. A map of Jussieu is available <a href="docs/assets/plan_neurips2022v2.jpg"> here</a>.
 
-
 <!--![map](/docs/assets/plan_neurips2022v2.jpg)-->
 
 
-<!-- ## Tentative schedule
+## Tentative schedule
 
+The event is planned to start at 9am on December 4 and end at 6:30pm on December 5.
+
+It will feature oral presentations and poster sessions of NeurIPS 2024, as well as presentations from Défenseur des droits, Latitudes and WIMLDS.
+
+More details to come soon.
+
+<!-- 
 A detailled list of papers for each session is available <a href="https://docs.google.com/spreadsheets/d/1P2YXaZvnIpC-IPtCHzFnFlMV5IMj5CZYEmo-ImpG_5A/edit?usp=sharing">here</a>. 
 
 ### Day 1 : 04.12.2024
@@ -84,9 +86,9 @@ We aim to organize a local and sustainable alternative to in-person attendance t
 [Vianney Perchet](https://vianney.ai/) (Criteo, ENSAE) <br>
 [Jean-Philippe Vert](https://members.cbio.mines-paristech.fr/~jvert/) (Owkin) <br>
 
-<!-- ## Sponsors
+## Sponsors
 
-This event is supported by Apple, Criteo, Google, G-Research and Owkin.  -->
+This event is supported by Apple, Bioptimus, Critéo, Google DeepMind, Owkin, Probabl.
 
 ## Contact
 
