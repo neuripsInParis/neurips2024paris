@@ -27,7 +27,7 @@ The event is planned to start at 9am on December 4 and end at 6:30pm on December
 
 It will feature oral presentations and poster sessions of NeurIPS 2024, as well as presentations from Défenseur des droits, Latitudes and WIMLDS.
 
-A first version of the schedule is available <a href="docs/assets/Planning Neurips In Paris 2024.pdf"> here</a>, a descritpion of oral sessions will be updated soon.
+A first version of the schedule is available <a href="docs/assets/Schedule_2024.pdf"> here</a>, a descritpion of oral sessions will be updated soon.
 
 <!-- 
 A detailled list of papers for each session is available <a href="https://docs.google.com/spreadsheets/d/1P2YXaZvnIpC-IPtCHzFnFlMV5IMj5CZYEmo-ImpG_5A/edit?usp=sharing">here</a>. 
