@@ -107,7 +107,7 @@ We aim to organize a local and sustainable alternative to in-person attendance t
 
 ## Sponsors
 
-This event is supported by Apple, Bioptimus, Critéo, Google DeepMind, Owkin, Probabl.
+This event is supported by Apple, Bioptimus, Critéo, Google DeepMind, Owkin, [Probabl](https://probabl.ai).
 
 ## Contact
 
