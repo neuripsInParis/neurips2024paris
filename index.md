@@ -109,9 +109,11 @@ We aim to organize a local and sustainable alternative to in-person attendance t
 
 This event is supported by Apple, Bioptimus, Critéo, Google DeepMind, Owkin, Probabl.
 
+This event is a part of the [ELLIS Pre-NeurIPS Fest 2024: Celebrate, Connect, Collaborate](https://ellis.eu/news/ellis-pre-neurips-fest-2024-celebrate-connect-collaborate).
+
+<img src="docs/assets/ellis-logo_horizontal_black_2023-PARIS.png" width="50%">
+
 ## Contact
 
 If you have any question, please contact us at [neuripsinparis@gmail.com](mailto:neuripsinparis@gmail.com).
 
-
-Photo credit: [marlenedd](https://www.flickr.com/photos/24241643@N00/49478118648)
