@@ -30,7 +30,8 @@ It will feature oral presentations and poster sessions of NeurIPS 2024, as well 
 The schedule is available <a href="docs/assets/Schedule_2024.pdf"> here</a>. Two poster sessions are planned, the detailed planning is available <a href="docs/assets/planning_posters_2024.pdf"> here</a>.
 
 ### Scientific presentations
-The presentations are divided into 6 thematic sessions, details are gathered <a href="docs/assets/Schedule_Talks.pdf"> here</a>. 
+The presentations are divided into 6 thematic sessions, details are gathered <a href="docs/assets/Schedule_Talks.pdf"> here</a>. Each presentation will last 15 minutes. In the interest of time, questions should be deferred to the poster session. All oral presentations also have a poster presentation in the following poster session.
+
 #### Day 1 : 04.12.2024
 
 | **Time** | **Description** |
