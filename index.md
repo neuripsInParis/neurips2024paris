@@ -108,7 +108,7 @@ We aim to organize a local and sustainable alternative to in-person attendance t
 
 ## Sponsors
 
-This event is supported by Apple, Bioptimus, Critéo, Google DeepMind, Owkin, Probabl.
+This event is supported by Apple, Bioptimus, Critéo, Google DeepMind, Owkin, [Probabl](https://probabl.ai).
 
 This event is a part of the [ELLIS Pre-NeurIPS Fest 2024: Celebrate, Connect, Collaborate](https://ellis.eu/news/ellis-pre-neurips-fest-2024-celebrate-connect-collaborate).
 
