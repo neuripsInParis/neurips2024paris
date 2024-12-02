@@ -36,18 +36,18 @@ The presentations are divided into 6 thematic sessions, details are gathered <a 
 
 | **Time** | **Description** |
 | -----| ----------- |
-| 09:30 - 10:30 | Applications of Machine Learning |
-| 11:00 - 12:15 | Theory of Machine Learning |
-| 14:30 - 15:45 | Reinforcement Learning |
+| 09:30 AM - 10:30 AM | Applications of Machine Learning |
+| 11:00 AM - 12:15 PM | Theory of Machine Learning |
+| 02:30 PM - 03:45 PM | Reinforcement Learning |
 
 
 #### Day 2 : 05.12.2024
 
 | **Time** | **Description** |
 | -----| ----------- |
-| 09:30 - 10:30 | Ethical and Trustworthy Machine Learning |
-| 11:00 - 12:15 | Optimisation, ML Methods and Algorithms |
-| 15:00 - 16:00 | Deep Learning and LLMs |
+| 09:30 AM - 10:30 AM | Ethical and Trustworthy Machine Learning |
+| 11:00 AM - 12:15 PM | Optimisation, ML Methods and Algorithms |
+| 03:30 PM - 04:30 PM | Deep Learning and LLMs |
 
 <!-- 
 A detailled list of papers for each session is available <a href="https://docs.google.com/spreadsheets/d/1P2YXaZvnIpC-IPtCHzFnFlMV5IMj5CZYEmo-ImpG_5A/edit?usp=sharing">here</a>. 
