@@ -1,3 +1,5 @@
+<span style="color:red">**Update**: the website for the 2025 edition of Neurips@Paris can be found [here](https://neuripsinparis.github.io/neurips2025paris/).</span>
+
 NeurIPS@Paris 2024 is a 2-day event that takes place at Sorbonne Université on the 4<sup>th</sup> and 5<sup>th</sup> of December. This event provides a local alternative to the <a href="https://nips.cc/">NeurIPS conference</a>. It aims at addressing some sustainability and inclusivity concerns in machine learning research. All students and researchers are welcome to attend.
 
 Authors of all accepted papers at NeurIPS 2024 are given the opportunity to present their work, through an oral presentation and/or a poster session. We unfortunately cannot accomodate oral presentations for all accepted papers; a subset of accepted papers will be proposed an oral presentation, based on scientific quality, thematic coherence and diversity criteria.
